@@ -32,7 +32,7 @@ This project is a **Movie Recommendation System** built using **Python** and **S
 
 ## 🔗 Download `similarity.pkl`
 
-Due to GitHub's file size limitations, you can download the required `similarity.pkl` file from Google Drive:
+Due to GitHub's file size limitations, you can download the Project from Google Drive:
 
 👉 [Download from Google Drive](https://drive.google.com/drive/folders/13Vd-k7kbCVl3ZSY3HxceyZDTNhu5NYRO?usp=drive_link)
 
